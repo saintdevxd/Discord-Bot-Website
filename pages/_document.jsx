@@ -16,9 +16,9 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="" />
           <meta name="twitter:creator" content="" />
-          <meta property="og:url" content="https://raven.vercel.app" />
+          <meta property="og:url" content="https://exe.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Raven" />
+          <meta property="og:title" content="Exe Bot" />
           <link
             rel="icon"
             href="/img/logo.gif"
@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Raven"
+            content="Exe"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.gif" type="image/x-icon" />
