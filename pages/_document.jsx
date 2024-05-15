@@ -29,11 +29,11 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta property="og:image" content="/img/logo.gif" />
-          <meta property="og:image:alt" content="Raven" />
+          <meta property="og:image:alt" content="Exe Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Exe"
+            content="Exe Bot"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.gif" type="image/x-icon" />
