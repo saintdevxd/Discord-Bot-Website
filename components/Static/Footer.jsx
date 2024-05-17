@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
                                 <img src="/img/logo.gif" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">ExE</p>
+                                <p className="font-semibold text-xl text-white">Relax Bot</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -38,18 +38,18 @@ export default function Footer() {
                             <div>
                                 <Link href="https://top.gg/bot/774043716797071371/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Vote
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <a href="https://discord.com/invite/ECYDEwXhMB" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                    Support
                                 </a>
                             </div>
                             <div>
                                 <a href="https://discord.com/oauth2/authorize?client_id=1235176997794353204&permissions=8&scope=bot+applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                    Invitei
                                 </a>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; ExE
+                            {new Date().getFullYear()} &copy; Relax
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
