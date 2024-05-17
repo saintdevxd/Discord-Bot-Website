@@ -16,7 +16,7 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="" />
           <meta name="twitter:creator" content="" />
-          <meta property="og:url" content="https://exe.vercel.app" />
+          <meta property="og:url" content="https://relax-support.vercel.app" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Exe Bot" />
           <link
@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Exe Bot"
+            content="Relax Bot"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.gif" type="image/x-icon" />
