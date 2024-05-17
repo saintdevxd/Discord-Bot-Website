@@ -29,6 +29,7 @@ export default function Partners() {
                             </div>
                         </div>
                     </a>
+                </div>
 
                 </div>
                 <div className="py-10"></div>
